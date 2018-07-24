@@ -1,6 +1,6 @@
 # contacts
 
-simple contacts app
+simple contacts app, use objective C, MVVM architecture
 
 # for running
 1. clone repository
